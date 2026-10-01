@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[brand]","\u002F[brand]\u002Faktualno","\u002F[brand]\u002Faktualno\u002F[slug]","\u002F[brand]\u002Faktualno\u002Fnova-objava","\u002F[brand]\u002Fekipa","\u002F[brand]\u002Frezervacija","\u002F[brand]\u002Fstoritve"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
